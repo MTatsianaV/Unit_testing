@@ -1,0 +1,21 @@
+
+m
+=src/main/java/org/example/five/number/RandomNumberModule.java,a\1\a16b5e7a27d84b484c4fa6e50acbbe1d3e7bba46
+h
+8src/main/java/org/example/five/order/PaymentService.java,9\3\938e76ff698f8305dda2d5696e2140c1eefefcf8
+f
+6src/main/java/org/example/five/order/OrderService.java,6\1\616f4b2d6c0b8d26f82bf1b1e41fa7c50eccafd0
+T
+$Test/seminars/five/SeleniumTest.java,3\f\3fe414d6535483e1efca36f009b2b9ba9079822f
+P
+ Test/seminars/five/MainTest.java,0\1\01951d7f940a59da65f2304297151c0dd5d66a8d
+d
+4src/main/java/org/example/six/AverageCalculator.java,0\9\09b7448df5d59e34792e667b6c8ed8d5ec992482
+d
+4src/main/java/org/example/five/user/UserService.java,7\b\7bf581224a0ae1a8978b9b5c66c0e9b98c166009
+g
+7src/main/java/org/example/five/user/UserRepository.java,0\4\047b0a5b67c8cd07c4cd6ba2ae3643b637e435e4
+X
+(src/main/java/AverageCalculatorTest.java,e\7\e780a07eb4f24bf55f4a751e555a9c683453c9c2
+j
+:src/main/java/org/example/five/number/MaxNumberModule.java,b\d\bdacd83f9226c6f4efd2ce12eed8ecfda5ce0f9d
